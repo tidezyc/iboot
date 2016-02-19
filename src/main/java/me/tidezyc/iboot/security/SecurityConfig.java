@@ -36,7 +36,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author zyc
+ * @author tidezyc
  */
 @Configuration
 @EnableConfigurationProperties
